@@ -11,3 +11,7 @@
 ![AltText](https://github.com/naufal025/PBO/blob/master/lat3(2).PNG "Latihan 3(2)")
 # Latihan 4
 ![AltText](https://github.com/naufal025/PBO/blob/master/lat4.PNG "Latihan 4")
+# Praktikum a
+![AltText](https://github.com/naufal025/PBO/blob/master/luas%20permukaan%20bola.PNG "Praktikum a")
+# Praktikum b
+![AltText](https://github.com/naufal025/PBO/blob/master/praktikum.PNG "Praktikum b")
